@@ -1,0 +1,78 @@
+<svg id="Set1b" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-5 {
+        stroke: #5b6771;
+      }
+
+      .cls-1, .cls-2, .cls-5, .cls-6, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 7px;
+      }
+
+      .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #5b6770;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #78d64b;
+      }
+
+      .cls-6, .cls-9 {
+        stroke: #fff;
+        stroke-width: 6px;
+      }
+
+      .cls-6, .cls-8, .cls-9 {
+        stroke-linecap: round;
+      }
+
+      .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-8 {
+        stroke: #5b6770;
+        stroke-width: 18px;
+      }
+    </style>
+    <symbol id="ShlMan" data-name="ShlMan" viewBox="0 0 201.34 232.04">
+      <g id="puzzle_outline" data-name="puzzle outline">
+        <g>
+          <path class="cls-1" d="M186.73,228.55H14.93a11.66,11.66,0,0,1-5.88-1.47,11.5,11.5,0,0,1-5.5-11l9.54-83.33c1.1-9.55,8.08-18.36,16.89-21.29l25.33-7.35c2.94-1.1,7-1.1,9.54,1.11l12.49,12.85a32.61,32.61,0,0,0,47.35,0l12.48-12.85a12.54,12.54,0,0,1,9.55-1.11l25.33,7.35c8.81,2.93,15.79,12.48,16.89,21.29l8.81,83c.36,2.93-.37,6.6-2.94,8.44A10.14,10.14,0,0,1,186.73,228.55Z"/>
+          <circle class="cls-2" cx="99.73" cy="49.72" r="47.72"/>
+        </g>
+      </g>
+    </symbol>
+  </defs>
+  <title>Creating</title>
+  <g id="Layer_49_copy" data-name="Layer 49 copy">
+    <circle class="cls-3" cx="150" cy="130" r="126"/>
+  </g>
+  <g id="Creating_copy_2" data-name="Creating copy 2">
+    <use width="201.34" height="232.05" transform="translate(19.34 53.86)" xlink:href="#ShlMan"/>
+    <g>
+      <path class="cls-4" d="M215.87,134.2h7.6a4.49,4.49,0,0,0,4.28-3.6c3.32-20.43,17.15-24.52,17.15-42.85a29,29,0,0,0-58.06,0c0,18.33,13.84,22.42,17.16,42.85a4.49,4.49,0,0,0,4.27,3.6Z"/>
+      <path class="cls-5" d="M204.77,140v2.72a3.9,3.9,0,0,0,1.4,3l2.14,1.77v5.74a3.09,3.09,0,0,0,3.09,3.09h8.82a3.09,3.09,0,0,0,3.09-3.09v-5.74l2.14-1.77a3.89,3.89,0,0,0,1.39-3V140a1.94,1.94,0,0,0-1.94-1.94H206.72A2,2,0,0,0,204.77,140Z"/>
+      <line class="cls-6" x1="215.23" y1="49.02" x2="215.23" y2="39.21"/>
+      <line class="cls-6" x1="186.2" y1="61.62" x2="179.63" y2="54.34"/>
+      <g>
+        <line class="cls-7" x1="242.91" y1="59.16" x2="249.04" y2="51.51"/>
+        <line class="cls-8" x1="242.91" y1="59.16" x2="249.04" y2="51.51"/>
+        <line class="cls-9" x1="242.91" y1="59.16" x2="249.04" y2="51.51"/>
+      </g>
+    </g>
+    <circle class="cls-7" cx="215.67" cy="88.76" r="21"/>
+  </g>
+</svg>

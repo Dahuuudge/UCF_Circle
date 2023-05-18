@@ -1,0 +1,69 @@
+<svg id="Set1b" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #5b6771;
+      }
+
+      .cls-1, .cls-2, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 7px;
+      }
+
+      .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #5b6770;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #5b6770;
+        stroke-width: 15px;
+      }
+
+      .cls-6 {
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-7 {
+        fill: #78d64b;
+      }
+    </style>
+    <symbol id="ShlMan" data-name="ShlMan" viewBox="0 0 201.34 232.04">
+      <g id="puzzle_outline" data-name="puzzle outline">
+        <g>
+          <path class="cls-1" d="M186.73,228.55H14.93a11.66,11.66,0,0,1-5.88-1.47,11.5,11.5,0,0,1-5.5-11l9.54-83.33c1.1-9.55,8.08-18.36,16.89-21.29l25.33-7.35c2.94-1.1,7-1.1,9.54,1.11l12.49,12.85a32.61,32.61,0,0,0,47.35,0l12.48-12.85a12.54,12.54,0,0,1,9.55-1.11l25.33,7.35c8.81,2.93,15.79,12.48,16.89,21.29l8.81,83c.36,2.93-.37,6.6-2.94,8.44A10.14,10.14,0,0,1,186.73,228.55Z"/>
+          <circle class="cls-2" cx="99.73" cy="49.72" r="47.72"/>
+        </g>
+      </g>
+    </symbol>
+  </defs>
+  <title>Adapting</title>
+  <g id="Layer_49_copy" data-name="Layer 49 copy">
+    <circle class="cls-3" cx="150" cy="130" r="126"/>
+  </g>
+  <g id="Adapting_copy_3" data-name="Adapting copy 3">
+    <use width="201.34" height="232.05" transform="translate(19.34 53.86)" xlink:href="#ShlMan"/>
+    <path class="cls-4" d="M181,115.3A42,42,0,0,1,178.6,99a43.43,43.43,0,0,1,4.24-16.51,45.24,45.24,0,0,1,10.63-14.06,46.81,46.81,0,0,1,15.74-9.18l.13,0a6,6,0,1,1,3.94,11.4,7.23,7.23,0,0,1-1.09.27,36,36,0,0,0-13.31,4.75A37.27,37.27,0,0,0,188,85.56a39,39,0,0,0-6.44,13.88A40.39,40.39,0,0,0,181,115.3Z"/>
+    <path class="cls-4" d="M261.61,97.89a41.67,41.67,0,0,1,1.52,14.3,43.49,43.49,0,0,1-3.53,14.46,44.67,44.67,0,0,1-8.49,12.84A46.47,46.47,0,0,1,238.37,149l-.14.08a6,6,0,0,1-5.49-10.77,5.57,5.57,0,0,1,1.21-.46,36,36,0,0,0,11.23-5.14,37.28,37.28,0,0,0,9.18-9,39.06,39.06,0,0,0,5.81-12A40.24,40.24,0,0,0,261.61,97.89Z"/>
+    <g>
+      <circle class="cls-5" cx="245.24" cy="71.08" r="20.99"/>
+      <circle class="cls-6" cx="245.24" cy="71.08" r="20.99"/>
+    </g>
+    <circle class="cls-7" cx="200.95" cy="136.48" r="20.99"/>
+  </g>
+</svg>

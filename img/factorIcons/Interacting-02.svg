@@ -1,0 +1,64 @@
+<svg id="Set1b" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-6 {
+        stroke: #5b6771;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 7px;
+      }
+
+      .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #5b6770;
+      }
+
+      .cls-4 {
+        stroke-width: 10px;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .cls-7 {
+        fill: #78d64b;
+      }
+    </style>
+    <symbol id="ShlMan" data-name="ShlMan" viewBox="0 0 201.34 232.04">
+      <g id="puzzle_outline" data-name="puzzle outline">
+        <g>
+          <path class="cls-1" d="M186.73,228.55H14.93a11.66,11.66,0,0,1-5.88-1.47,11.5,11.5,0,0,1-5.5-11l9.54-83.33c1.1-9.55,8.08-18.36,16.89-21.29l25.33-7.35c2.94-1.1,7-1.1,9.54,1.11l12.49,12.85a32.61,32.61,0,0,0,47.35,0l12.48-12.85a12.54,12.54,0,0,1,9.55-1.11l25.33,7.35c8.81,2.93,15.79,12.48,16.89,21.29l8.81,83c.36,2.93-.37,6.6-2.94,8.44A10.14,10.14,0,0,1,186.73,228.55Z"/>
+          <circle class="cls-2" cx="99.73" cy="49.72" r="47.72"/>
+        </g>
+      </g>
+    </symbol>
+  </defs>
+  <title>Interacting</title>
+  <g id="Layer_49_copy" data-name="Layer 49 copy">
+    <circle class="cls-3" cx="150" cy="130" r="126"/>
+  </g>
+  <g id="Interacting_copy_2" data-name="Interacting copy 2">
+    <use width="201.34" height="232.05" transform="translate(19.34 53.86)" xlink:href="#ShlMan"/>
+    <g id="Layer_10_copy_3" data-name="Layer 10 copy 3">
+      <rect class="cls-4" x="173.37" y="26" width="96.33" height="81.86" rx="12.91"/>
+      <g>
+        <path class="cls-5" d="M256.79,26H186.27a12.91,12.91,0,0,0-12.9,12.9V90.68a12.91,12.91,0,0,0,12.9,12.91h11.65v19.74A7.65,7.65,0,0,0,210.67,129l28.53-25.45h17.59A12.91,12.91,0,0,0,269.7,90.68V38.9A12.91,12.91,0,0,0,256.79,26Z"/>
+        <path class="cls-6" d="M256.79,26H186.27a12.91,12.91,0,0,0-12.9,12.9V90.68a12.91,12.91,0,0,0,12.9,12.91h11.65v19.74A7.65,7.65,0,0,0,210.67,129l28.53-25.45h17.59A12.91,12.91,0,0,0,269.7,90.68V38.9A12.91,12.91,0,0,0,256.79,26Z"/>
+      </g>
+      <g id="Layer_9_copy_3" data-name="Layer 9 copy 3">
+        <circle class="cls-7" cx="223.05" cy="65.05" r="21"/>
+      </g>
+    </g>
+  </g>
+</svg>
